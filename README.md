@@ -54,6 +54,7 @@ https://visionary-biscotti-c62109.netlify.app/
 ## Badges
 
 https://img.shields.io/twitter/url?url=https%3A%2F%2Fapp.netlify.com%2Fsites%2Fvisionary-biscotti-c62109%2Fsettings%2Fgeneral
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7a37bcfb-af69-4d12-be25-deddec166eff/deploy-status)](https://app.netlify.com/sites/visionary-biscotti-c62109/deploys)
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
