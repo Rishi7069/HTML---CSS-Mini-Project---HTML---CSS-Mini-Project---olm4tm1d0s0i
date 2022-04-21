@@ -48,12 +48,12 @@ https://visionary-biscotti-c62109.netlify.app/
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@Rishi7069](https://github.com/Rishi7069)
 
 -Rishi kumar
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+https://img.shields.io/twitter/url?url=https%3A%2F%2Fapp.netlify.com%2Fsites%2Fvisionary-biscotti-c62109%2Fsettings%2Fgeneral
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
@@ -104,7 +104,7 @@ To deploy this project run
 - Live previews
 - Fullscreen mode
 - Cross platform
-
+- Responsive
 
 ## Documentation
 
@@ -112,7 +112,4 @@ To deploy this project run
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
+[![portfolio](https://github.com/Rishi7069)
