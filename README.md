@@ -43,7 +43,7 @@ Takes two numbers and returns the sum.
 ## Appendix
 
 Checkout hosted website on netlify--
-https://visionary-biscotti-c62109.netlify.app/
+https://rishi-kumar-html-css-miniproject.netlify.app/
 
 
 ## Authors
